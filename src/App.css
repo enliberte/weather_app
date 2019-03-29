@@ -20,6 +20,10 @@ body {
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2db0e0', endColorstr='#6028a8', GradientType=1 );
 }
 
+.row {
+    width: 100%;   
+}
+
 .main {
     height: 250vh;
     background: #2a6bb1;
